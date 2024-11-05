@@ -5,12 +5,6 @@ This project uses machine learning techniques to classify breast cancer as malig
 ## Table of Contents
 1. [Features](#features)
 2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Models Used](#models-used)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Features
 - **Data Preprocessing**: Removes unnecessary columns, encodes categorical labels, and scales features.
